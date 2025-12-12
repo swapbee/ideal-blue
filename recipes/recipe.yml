@@ -27,7 +27,7 @@ modules:
       packages:
         - micro
         - starship
-        # - cloudflare-warp
+        - cloudflare-warp
         - cosmic-greeter
     remove:
       packages:
